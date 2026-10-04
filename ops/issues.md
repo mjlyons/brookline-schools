@@ -17,7 +17,12 @@ Format: `## YYYY-MM-DD: short title`, then what happened, impact, and status (op
 ## 2026-10-04: Cloud sandbox shell blocked from needed hosts
 - What: curl got `403 CONNECT tunnel failed` for www.psbma.org, share.google, and brooklinema.zoomgov.com (egress proxy, organization policy).
 - Impact: The sync script cannot reach the materials page, Zoom, or share.google redirects.
-- Status: Open. Add to the environment network allowlist: psbma.org, brooklinema.portal.civicclerk.com, brooklinema.zoomgov.com, share.google, youtube.com, googlevideo.com. Re-test after.
+- Status: Resolved 2026-10-04. After the allowlist change, curl returned 200 for psbma.org (materials page), civicclerk, zoomgov, share.google and youtube.com. googlevideo.com and i.ytimg.com roots returned 404 (reachable, not blocked by the proxy). Real downloads are untested.
+
+## 2026-10-04: sync.py scraper not written
+- What: `python scripts/meetings/sync.py` prints "sync skipped: scraper not written yet" and changes nothing.
+- Impact: /sync-meetings cannot fetch any meetings yet.
+- Status: Open. Build steps 1 to 6 in plans/0001-generate-meeting-pages.md.
 
 ## 2026-10-04: Zoom transcript availability unknown
 - What: Not yet confirmed whether Zoom share pages offer a transcript or download.
