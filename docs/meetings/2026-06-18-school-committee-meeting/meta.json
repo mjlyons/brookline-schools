@@ -1,0 +1,28 @@
+{
+  "title": "School Committee Meeting (June 18, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-06-18",
+  "time": "18:00",
+  "status": "incomplete",
+  "recording": {
+    "kind": "youtube",
+    "url": "https://youtu.be/2YhgO14jXys?t=807"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-celebration-of-educators-staff-with-30-years-31-years-of-ser.pdf",
+      "agenda-packet/02-accounts-payable-report-june-12-2026.pdf",
+      "agenda-packet/03-metco-presentation.pdf",
+      "agenda-packet/04-proposal-for-solar-panels-for-hayes-pierce-and-bhs.pdf",
+      "agenda-packet/05-draft-2026-2027-goals.pdf",
+      "agenda-packet/06-self-assessment.pdf",
+      "agenda-packet/07-enrollment-snapshot-6-1-26.pdf",
+      "agenda-packet/08-enrollment-snapshot-6-16-26.pdf",
+      "agenda-packet/09-possible-vote-to-merge-the-finance-and-capital-projects-subc.pdf"
+    ]
+  },
+  "event_id": "14124",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/14124/files/agenda/31719"
+}

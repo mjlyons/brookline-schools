@@ -1,0 +1,29 @@
+{
+  "title": "School Committee Meeting (April 30, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-04-30",
+  "time": "18:00",
+  "status": "no-transcript",
+  "recording": {
+    "kind": "zoom",
+    "url": "https://brooklinema.zoomgov.com/rec/share/NwPps4_6Xq-2KroVglRabedT2Qaj3-ny_i6wxAthGvnPEQH-KLvWKkxTXbbGhdg.E_PuJ67Lo6GnsaOV?startTime=1777586457000"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-accounts-payable-report-april-17-2026-opens-in-new-tab.pdf",
+      "agenda-packet/02-brookline-cdeicr-commission-report-civil-rights-policy-opens.pdf",
+      "agenda-packet/03-presentation-preventing-and-responding-to-student-substance-.pdf",
+      "agenda-packet/04-warrant-article-17-opens-in-new-tab.pdf",
+      "agenda-packet/05-warrant-article-22-opens-in-new-tab.pdf",
+      "agenda-packet/06-mou-between-psb-and-steps-to-success-inc-opens-in-new-tab.pdf",
+      "agenda-packet/07-summary-of-changes-in-the-psb-steps-to-success-mou-opens-in-.pdf",
+      "agenda-packet/08-policy-document-opens-in-new-tab.pdf",
+      "agenda-packet/09-presentation-opens-in-new-tab.pdf",
+      "agenda-packet/10-moa-between-psb-and-the-town-of-brookline-ersc-recommendatio.pdf"
+    ]
+  },
+  "event_id": "14120",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/14120/files/agenda/31173"
+}

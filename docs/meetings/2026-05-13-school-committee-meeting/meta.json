@@ -1,0 +1,27 @@
+{
+  "title": "School Committee Meeting (May 13, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-05-13",
+  "time": "18:00",
+  "status": "no-transcript",
+  "recording": {
+    "kind": "zoom",
+    "url": "https://brooklinema.zoomgov.com/rec/share/yTtv2TapJQaXu_iXPc5o15k9gU8CFoyhJaRqOqcUs5nSOqRfttjYItZsLXZPXOas.ObeArEyltEoozgGn?startTime=1778709738000"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-may-1-2026.pdf",
+      "agenda-packet/02-may-8-2026.pdf",
+      "agenda-packet/03-barry-mark-shuman-scholarship-application.pdf",
+      "agenda-packet/04-steve-lantos-scholarship-for-excellence-in-chemistry-and-squ.pdf",
+      "agenda-packet/05-vision-of-a-learner-update.pdf",
+      "agenda-packet/06-update-on-the-2026-2027-brookline-high-school-schedule.pdf",
+      "agenda-packet/07-interview-of-deputy-superintendent-for-admin-and-finance-can.pdf",
+      "agenda-packet/08-school-choice-vote.pdf"
+    ]
+  },
+  "event_id": "14121",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/14121/files/agenda/31313"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "School Committee Meeting (March 26, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-03-26",
+  "time": "18:00",
+  "status": "no-transcript",
+  "recording": {
+    "kind": "zoom",
+    "url": "https://brooklinema.zoomgov.com/rec/share/sNbtBEUruVAC7KQGaHPGmBKsRZHoW5Fc_qQGZ9FLViBi79KJWwJtQFsn7qoSXBqz.ENt6J6pKtVOVc-uf?startTime=1774562430000"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-accounts-payable-report-march-20-2026-opens-in-new-tab.pdf",
+      "agenda-packet/02-draft-student-civil-rights-policy-opens-in-new-tab.pdf",
+      "agenda-packet/03-civil-rights-policy-slide-presentation-opens-in-new-tab.pdf",
+      "agenda-packet/04-gift-memo-opens-in-new-tab.pdf",
+      "agenda-packet/05-beep-leases-for-194-grove-street-and-1187-beacon-street-open.pdf",
+      "agenda-packet/06-bus-contract-extensions-opens-in-new-tab.pdf",
+      "agenda-packet/07-psb-time-out-practices-inclusive-of-physical-restraint-polic.pdf",
+      "agenda-packet/08-psb-administration-of-medications-in-school-policy-opens-in-.pdf",
+      "agenda-packet/09-middle-school-cte-pathway-exploration-policy-opens-in-new-ta.pdf",
+      "agenda-packet/10-draft-instructional-materials-policy-opens-in-new-tab.pdf",
+      "agenda-packet/11-dpw-memo-and-draft-epp-policy-opens-in-new-tab.pdf",
+      "agenda-packet/12-budget-request-opens-in-new-tab.pdf",
+      "agenda-packet/13-finance-subcommittee-vote-opens-in-new-tab.pdf",
+      "agenda-packet/14-fy27-mini-cip-deferred-maintenance-list-opens-in-new-tab.pdf"
+    ]
+  },
+  "event_id": "14116",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/14116/files/agenda/31043"
+}

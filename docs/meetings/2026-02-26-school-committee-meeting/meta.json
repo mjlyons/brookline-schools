@@ -1,0 +1,28 @@
+{
+  "title": "School Committee Meeting (February 26, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-02-26",
+  "time": "18:00",
+  "status": "incomplete",
+  "recording": {
+    "kind": "youtube",
+    "url": "https://www.youtube.com/watch?v=QLRDO-qMskk"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-accounts-payable-report-february-13-2026.pdf",
+      "agenda-packet/02-pierce-school-project-miller-dyer-spears-change-order-no-22.pdf",
+      "agenda-packet/03-whisp-presentation-9th-grade-social-studies-course.pdf",
+      "agenda-packet/04-9th-grade-social-studies-course-whisp-faq.pdf",
+      "agenda-packet/05-fy27-budget-presentation-slides.pdf",
+      "agenda-packet/06-fy27-budget-faqs.pdf",
+      "agenda-packet/07-fy27-budget-professional-development-requests.pdf",
+      "agenda-packet/08-draft-middle-school-cte-pathways-exploration-policy.pdf",
+      "agenda-packet/09-psb-policy-manual-section-d-fiscal-management.pdf"
+    ]
+  },
+  "event_id": "15013",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/15013/files/agenda/29197"
+}

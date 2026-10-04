@@ -1,0 +1,33 @@
+{
+  "title": "School Committee Meeting (April 16, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-04-16",
+  "time": "18:00",
+  "status": "incomplete",
+  "recording": {
+    "kind": "youtube",
+    "url": "https://youtu.be/L7oDpm11mFw"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-march-27-2026-report-opens-in-new-tab.pdf",
+      "agenda-packet/02-april-10-2026-report-opens-in-new-tab.pdf",
+      "agenda-packet/03-grant-acceptance-memo-opens-in-new-tab.pdf",
+      "agenda-packet/04-gift-acceptance-memo-opens-in-new-tab.pdf",
+      "agenda-packet/05-barry-mark-shuman-scholarship-application-opens-in-new-tab.pdf",
+      "agenda-packet/06-i-voted-sticker-contest-winner-announcement-opens-in-new-tab.pdf",
+      "agenda-packet/07-proposed-psb-student-civil-rights-policy-opens-in-new-tab.pdf",
+      "agenda-packet/08-slide-presentation-proposed-student-civil-rights-policy-open.pdf",
+      "agenda-packet/09-fy26-third-quarter-financial-report-opens-in-new-tab.pdf",
+      "agenda-packet/10-2026-2027-superintendent-evaluation-process-and-timeline-ope.pdf",
+      "agenda-packet/11-request-to-name-the-pierce-school-gym-opens-in-new-tab.pdf",
+      "agenda-packet/12-request-to-name-the-lawrence-school-health-clinic-opens-in-n.pdf",
+      "agenda-packet/13-proposed-revisions-to-the-instructional-materials-workbooks-.pdf",
+      "agenda-packet/14-runkle-school-pto-request-opens-in-new-tab.pdf"
+    ]
+  },
+  "event_id": "14119",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/14119/files/agenda/30941"
+}

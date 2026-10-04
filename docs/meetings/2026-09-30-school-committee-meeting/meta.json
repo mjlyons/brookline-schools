@@ -1,0 +1,27 @@
+{
+  "title": "School Committee Meeting (September 30, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-09-30",
+  "time": "18:00",
+  "status": "incomplete",
+  "recording": {
+    "kind": "other",
+    "url": "https://share.google/Ji2bTSTYmpCTJN9YC"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-september-10-2026.pdf",
+      "agenda-packet/02-september-17-2026.pdf",
+      "agenda-packet/03-dese-district-report.pdf",
+      "agenda-packet/04-slide-presentation.pdf",
+      "agenda-packet/05-policy-protect-act.pdf",
+      "agenda-packet/06-policy-time-out-seclusion-and-physical-restraint-of-students.pdf",
+      "agenda-packet/07-policy-student-code-of-conduct.pdf",
+      "agenda-packet/08-policy-philosophy-statements.pdf"
+    ]
+  },
+  "event_id": "16516",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/16516/files/agenda/33686"
+}

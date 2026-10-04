@@ -1,0 +1,30 @@
+{
+  "title": "School Committee Meeting (September 16, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-09-16",
+  "time": "18:00",
+  "status": "no-transcript",
+  "recording": {
+    "kind": "zoom",
+    "url": "https://brooklinema.zoomgov.com/rec/share/bEYsRYgHjOhLjwp3TjxfqPcVZIxCcKOShgJWrI3f22aHm3yclN0MCzieQ7OM632f.dzv4p2_edK6boArD?startTime=1789596119000"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-accounts-payable-reports.pdf",
+      "agenda-packet/02-pierce-school-building-project-change-order-no-24.pdf",
+      "agenda-packet/03-pierce-school-building-project-change-order-no-25.pdf",
+      "agenda-packet/04-gift-memo.pdf",
+      "agenda-packet/05-grant-memo.pdf",
+      "agenda-packet/06-superintendent-s-report.pdf",
+      "agenda-packet/07-fy28-cip-request.pdf",
+      "agenda-packet/08-request-for-new-revolving-fund.pdf",
+      "agenda-packet/09-fy28-budget-development-dates.pdf",
+      "agenda-packet/10-lincoln-school-grounds-renovation-project-design-review-comm.pdf",
+      "agenda-packet/11-school-committee-proposed-norms.pdf"
+    ]
+  },
+  "event_id": "16515",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/16515/files/agenda/33780"
+}

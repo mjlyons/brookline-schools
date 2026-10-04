@@ -1,0 +1,23 @@
+{
+  "title": "School Committee Meeting (March 19, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-03-19",
+  "time": "18:00",
+  "status": "no-transcript",
+  "recording": {
+    "kind": "zoom",
+    "url": "https://brooklinema.zoomgov.com/rec/share/ibOZG4LA2BRAOSc_a9xGp4R1PH5Gb3FfzaFjH0JBezy4llM8rg0cJOuauyn3SkUR.JgaXE3RAU98og9wY?startTime=1773957663000"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-march-6-2026-opens-in-new-tab.pdf",
+      "agenda-packet/02-march-13-2026-opens-in-new-tab.pdf",
+      "agenda-packet/03-fy27-budget-presentation-and-vote-opens-in-new-tab.pdf",
+      "agenda-packet/04-psb-policy-manual-section-d-fiscal-management-opens-in-new-t.pdf"
+    ]
+  },
+  "event_id": "14117",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/14117/files/agenda/30548"
+}

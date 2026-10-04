@@ -1,6 +1,6 @@
 # Plan 0001: Generate meeting pages
 
-Last updated: 2026-10-04
+Last updated: 2026-10-04 (scraper built, first full run done)
 
 ## Goal
 
@@ -48,6 +48,14 @@ Lesson already learned: the summarizing fetch truncated a Zoom URL, which made a
 - `scripts/meetings/sync.py`: skeleton with real decision logic (which meetings need work, folder names, retry window); scraping and downloads are TODO
 - `docs/` skeleton with `.nojekyll`, landing page, and an empty meetings list
 - `ops/issues.md` with the problems found so far
+
+## Status after first full run (branch `claude/trusting-bardeen-kqsmrp`, not yet on `main`)
+
+- `sync.py` is built: raw-HTML listing parse, CivicClerk PDFs via `brooklinema.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=N,plainText=false)`, same-day collision handling, `meta.json` last.
+- Packet attachments are separate files (answers open question 2). 50 meetings, 141 MB of PDFs.
+- Result: 28 no-transcript (Zoom: play page HTML shows no transcript), 17 recording-unavailable (none listed on the page), 5 incomplete.
+- Blocked: YouTube transcripts (4 meetings) fail with yt-dlp "Sign in to confirm you're not a bot". `share.google` redirects land on `www.google.com`, which the proxy denies (1 meeting). Needs `www.google.com` allowlisted; YouTube needs cookies or another approach.
+- Not done: Zoom transcripts (needs a real browser look), `brooklineinteractive.org` recordings are kind `other`, no scheduled task, nothing on `main`.
 
 ## Still to do
 

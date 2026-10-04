@@ -1,0 +1,24 @@
+{
+  "title": "School Committee Meeting (February 12, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-02-12",
+  "time": "18:00",
+  "status": "no-transcript",
+  "recording": {
+    "kind": "other",
+    "url": "https://brooklineinteractive.org/brookline-school-committee-meeting-february-12-2026/"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-accounts-payable-report.pdf",
+      "agenda-packet/02-fy2027-proposed-budget-faqs.pdf",
+      "agenda-packet/03-fy2027-budget-hearing-slide-presentation.pdf",
+      "agenda-packet/04-fy2027-budget-update.pdf",
+      "agenda-packet/05-office-of-teaching-and-learning-update.pdf"
+    ]
+  },
+  "event_id": "14954",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/14954/files/agenda/28007"
+}

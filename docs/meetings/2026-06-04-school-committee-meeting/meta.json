@@ -1,0 +1,28 @@
+{
+  "title": "School Committee Meeting (June 4, 2026)",
+  "body": "School Committee Meeting",
+  "date": "2026-06-04",
+  "time": "18:00",
+  "status": "no-transcript",
+  "recording": {
+    "kind": "zoom",
+    "url": "https://brooklinema.zoomgov.com/rec/share/TCpnlGOsRh6rAdkEMPwPgIw2TrafojByf3QQkBmMKbLyRwOSyfPJ32ai6DLjPmwP.psr8izXZ5K1Za6-c?startTime=1780610452000"
+  },
+  "files": {
+    "transcript": null,
+    "agenda": "agenda.pdf",
+    "agenda_packet": [
+      "agenda-packet/01-may-15.pdf",
+      "agenda-packet/02-may-22.pdf",
+      "agenda-packet/03-may-29-2026.pdf",
+      "agenda-packet/04-acceptance-of-gift-bcf-david-whipple-fund.pdf",
+      "agenda-packet/05-acceptance-of-grants-bcf-arpa-safety-net-grants-summer-eats-.pdf",
+      "agenda-packet/06-superintendent-s-report-fy26-financial-update.pdf",
+      "agenda-packet/07-enrollment-projections.pdf",
+      "agenda-packet/08-superintendent-s-end-of-year-report.pdf",
+      "agenda-packet/09-district-literacy-curriculum-update.pdf"
+    ]
+  },
+  "event_id": "14122",
+  "agenda_package_source_url": "https://brooklinema.portal.civicclerk.com/event/14122/files/agenda/31583"
+}
