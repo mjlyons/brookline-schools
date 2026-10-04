@@ -4,6 +4,16 @@ Not published (lives outside `docs/`). Newest first. Add an entry whenever a syn
 
 Format: `## YYYY-MM-DD: short title`, then what happened, impact, and status (open / resolved + how).
 
+## 2026-10-04: Sync cannot run, scraper not written
+- What: `python scripts/meetings/sync.py` prints "sync skipped: scraper not written yet". No meetings were fetched.
+- Impact: Nothing new synced. Site unchanged.
+- Status: Open. Build steps 1 to 6 in plan 0001.
+
+## 2026-10-04: Allowlist entries need wildcards for subdomains
+- What: After the allowlist was set, bare `psbma.org` and `youtube.com` answer (301) but `www.psbma.org`, `www.youtube.com`, `www.googlevideo.com`, `i.ytimg.com`, and `rr1---*.googlevideo.com` get `403 CONNECT tunnel failed`. Reachable (200): `brooklinema.portal.civicclerk.com`, `brooklinema.zoomgov.com`, `share.google`. `brooklinema.api.civicclerk.com` is also blocked (403).
+- Impact: The materials page (www.psbma.org) and YouTube cannot be fetched. Sync is blocked on those.
+- Status: Open. Add `*.psbma.org`, `*.youtube.com`, `*.googlevideo.com`, `*.ytimg.com`, `*.civicclerk.com` (or the specific hosts `www.psbma.org`, `www.youtube.com`, `brooklinema.api.civicclerk.com`). Re-test.
+
 ## 2026-10-04: Zoom share link truncated by page summary
 - What: A summarizing fetch of the materials page returned a Zoom share URL missing its tail. The real link ends `...Pi1P8_8.XN5IidwPJVoPir7v?startTime=...`. The truncated link showed "recording does not exist".
 - Impact: Looked like a dead recording but was a bad URL.
