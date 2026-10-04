@@ -52,9 +52,9 @@ Lesson already learned: the summarizing fetch truncated a Zoom URL, which made a
 ## Still to do
 
 Needs you:
-1. Turn on Pages: Settings > Pages > Deploy from a branch > `main` > `/docs`.
+1. Done: Pages is on (Deploy from a branch > `main` > `/docs`).
 2. Add these hosts to the cloud environment's network allowlist: `psbma.org`, `brooklinema.portal.civicclerk.com`, `brooklinema.zoomgov.com`, `share.google`, `youtube.com`, `googlevideo.com`. The sandbox shell is currently blocked from all of them.
-3. Allow the cloud task to push directly to `main` (otherwise it lands on a branch and nothing publishes).
+3. Check the Zoom play page for the 2026-09-28 DEIJ recording: does it show a transcript panel or a download option?
 4. Skim a few agenda packets for student or personnel details before the first real run. Pages sites are public.
 
 Build, in order:
@@ -65,7 +65,7 @@ Build, in order:
 5. Zoom transcripts. Unknown whether the play page exposes a transcript or download. Check a real page (the 2026-09-28 DEIJ recording loads for the user). If not, record `no-transcript`.
 6. Write `process_meeting()` and its `meta.json` output.
 7. Same-day, same-body collisions: two meetings with the same date and body would share a folder name. Detect it and add the CivicClerk event id to the folder name.
-8. Run it once by hand, review the output, then create the daily scheduled task.
+8. Run it once by hand, review the output, then create the daily scheduled task. No scheduled task exists yet. A push to `main` worked from the interactive session; when the scheduled task is created, confirm its first run pushes to `main` and not a branch (nothing publishes from a branch).
 
 ## Open questions
 
